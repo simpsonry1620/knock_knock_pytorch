@@ -103,8 +103,8 @@ execution:
   apps: []
   resources:
     gpu:
-      requested: 1
-    sharedMemoryMB: 1024
+      requested: 2
+    sharedMemoryMB: 2048
   secrets: []
   mounts:
   - type: project
